@@ -1,0 +1,1 @@
+Data Source=___\\SQLEXPRESS;Initial Catalog=LibraryDb;Integrated Security=True;Encrypt=True;Trust Server Certificate=True
